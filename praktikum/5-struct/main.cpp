@@ -14,11 +14,10 @@ int main()
 {
     Orang data;
     bool isRunning = true;
+    int choice = 1;
 
     while (isRunning)
     {
-        int choice;
-
         cout << endl;
         cout << "Program Input Data" << endl;
         cout << "1) Input Data" << endl;
